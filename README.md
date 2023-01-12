@@ -1,2 +1,2 @@
 # LGM_VIP_WebDevelopment_Calculator
-CALCULATOR developed using HTML, CSS and JAVASCRIPT
+Developed CALCULATOR  using HTML, CSS and JAVASCRIPT
